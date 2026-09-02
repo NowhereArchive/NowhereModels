@@ -1,0 +1,1104 @@
+{
+  "characters": [
+    {
+      "id": "char_alchemicaldevicerepair_n",
+      "name": "Char Alchemicaldevicerepair N",
+      "file": "b9011d78e271e592"
+    },
+    {
+      "id": "char_aida_n",
+      "name": "Char Aida N",
+      "file": "3c3e93cbe7857462"
+    },
+    {
+      "id": "char_alchemydevice_n",
+      "name": "Char Alchemydevice N",
+      "file": "97c06048b2018e40"
+    },
+    {
+      "id": "char_ai_n",
+      "name": "Char Ai N",
+      "file": "ec572bce10183b74"
+    },
+    {
+      "id": "char_anarkiaqiu_n",
+      "name": "Char Anarkiaqiu N",
+      "file": "3973878bc5679fc8"
+    },
+    {
+      "id": "char_alchemychiefhella_n",
+      "name": "Char Alchemychiefhella N",
+      "file": "cd2bfc6b19af33b7"
+    },
+    {
+      "id": "char_aimiliya_n",
+      "name": "Char Aimiliya N",
+      "file": "dfe4bbe315d309b6"
+    },
+    {
+      "id": "char_alchemychiefhypatia_n",
+      "name": "Char Alchemychiefhypatia N",
+      "file": "9f7bc9790779dd1c"
+    },
+    {
+      "id": "char_aisemoer_n",
+      "name": "Char Aisemoer N",
+      "file": "e3a3107b368a1769"
+    },
+    {
+      "id": "char_adela_n",
+      "name": "Char Adela N",
+      "file": "523703877f461375"
+    },
+    {
+      "id": "char_airuier_n",
+      "name": "Char Airuier N",
+      "file": "82b94e42d545e109"
+    },
+    {
+      "id": "char_atlant_n",
+      "name": "Char Atlant N",
+      "file": "772178b2e19030c6"
+    },
+    {
+      "id": "char_anarkia_n",
+      "name": "Char Anarkia N",
+      "file": "839138ad11ef5670"
+    },
+    {
+      "id": "char_angel_n",
+      "name": "Char Angel N",
+      "file": "cd1b351ee7cc93d9"
+    },
+    {
+      "id": "char_ark_n",
+      "name": "Char Ark N",
+      "file": "1a16e142c7407c5b"
+    },
+    {
+      "id": "char_cabhun_n",
+      "name": "Char Cabhun N",
+      "file": "2a0e28ee63721ea7"
+    },
+    {
+      "id": "char_anasui_n",
+      "name": "Char Anasui N",
+      "file": "b2d83fd92d8e94dc"
+    },
+    {
+      "id": "char_beisefenni_n",
+      "name": "Char Beisefenni N",
+      "file": "12b66328848f2baf"
+    },
+    {
+      "id": "char_cassian_n",
+      "name": "Char Cassian N",
+      "file": "35f9ffbccf0a163f"
+    },
+    {
+      "id": "char_augustus_n",
+      "name": "Char Augustus N",
+      "file": "75d02e14ea5fc4ef"
+    },
+    {
+      "id": "char_bianca_n",
+      "name": "Char Bianca N",
+      "file": "bcaf3081ec11419c"
+    },
+    {
+      "id": "char_cab_n",
+      "name": "Char Cab N",
+      "file": "af70645a1c585d83"
+    },
+    {
+      "id": "char_cassia_n",
+      "name": "Char Cassia N",
+      "file": "236cdb763095a45e"
+    },
+    {
+      "id": "char_che_n",
+      "name": "Char Che N",
+      "file": "c040c324813afc8e"
+    },
+    {
+      "id": "char_ceto_n",
+      "name": "Char Ceto N",
+      "file": "5ef48124fb0cc3a8"
+    },
+    {
+      "id": "char_chiefflor_n",
+      "name": "Char Chiefflor N",
+      "file": "468fe099b6b96dd6"
+    },
+    {
+      "id": "char_bai_n",
+      "name": "Char Bai N",
+      "file": "d612cf72c6caf374"
+    },
+    {
+      "id": "char_chameleon_n",
+      "name": "Char Chameleon N",
+      "file": "c2de48d774515a37"
+    },
+    {
+      "id": "char_cracheweapon_n",
+      "name": "Char Cracheweapon N",
+      "file": "1cdb89395822bc65"
+    },
+    {
+      "id": "char_cursedlanternnpc_n",
+      "name": "Char Cursedlanternnpc N",
+      "file": "f2bb24f930a2df3c"
+    },
+    {
+      "id": "char_cloverbossnpc_n",
+      "name": "Char Cloverbossnpc N",
+      "file": "7b0d7546f8877722"
+    },
+    {
+      "id": "char_chiefhella_n",
+      "name": "Char Chiefhella N",
+      "file": "330d40d4d04ca66c"
+    },
+    {
+      "id": "char_christina_n",
+      "name": "Char Christina N",
+      "file": "2d54c1565aed754f"
+    },
+    {
+      "id": "char_corso_n",
+      "name": "Char Corso N",
+      "file": "f8841be2c68edf9c"
+    },
+    {
+      "id": "char_dixiaquanshounpc_n",
+      "name": "Char Dixiaquanshounpc N",
+      "file": "2dd6265790947efa"
+    },
+    {
+      "id": "char_dina_n",
+      "name": "Char Dina N",
+      "file": "e5f631ae15d11bdc"
+    },
+    {
+      "id": "char_dimeng_n",
+      "name": "Char Dimeng N",
+      "file": "4670bf0bb66e2c86"
+    },
+    {
+      "id": "char_crache_n",
+      "name": "Char Crache N",
+      "file": "b719838a073e0a07"
+    },
+    {
+      "id": "char_duckartnpc_n",
+      "name": "Char Duckartnpc N",
+      "file": "93b7b73131a42662"
+    },
+    {
+      "id": "char_duckbossnpc_n",
+      "name": "Char Duckbossnpc N",
+      "file": "21500e0df42de2a4"
+    },
+    {
+      "id": "char_chengxiao_n",
+      "name": "Char Chengxiao N",
+      "file": "7e75b4634d8f22b2"
+    },
+    {
+      "id": "char_duckdesignnpc_n",
+      "name": "Char Duckdesignnpc N",
+      "file": "d71e290125f20b27"
+    },
+    {
+      "id": "char_duckmusicnpc_n",
+      "name": "Char Duckmusicnpc N",
+      "file": "b74505746d9c1b44"
+    },
+    {
+      "id": "char_dove_n",
+      "name": "Char Dove N",
+      "file": "19715948ab0ee99d"
+    },
+    {
+      "id": "char_duckwritenpc_n",
+      "name": "Char Duckwritenpc N",
+      "file": "01a19d073f6ec3c9"
+    },
+    {
+      "id": "char_coquelicot_n",
+      "name": "Char Coquelicot N",
+      "file": "92e695e7d76cca59"
+    },
+    {
+      "id": "char_deren_n",
+      "name": "Char Deren N",
+      "file": "c5f6f6e302a876bd"
+    },
+    {
+      "id": "char_duckprogramnpc_n",
+      "name": "Char Duckprogramnpc N",
+      "file": "d13978b9502a88ab"
+    },
+    {
+      "id": "char_don_n",
+      "name": "Char Don N",
+      "file": "ca4560d33c47bd9f"
+    },
+    {
+      "id": "char_elevenguishou_n",
+      "name": "Char Elevenguishou N",
+      "file": "00803978507cd4e7"
+    },
+    {
+      "id": "char_dudu_n",
+      "name": "Char Dudu N",
+      "file": "cc1bf6e48963e160"
+    },
+    {
+      "id": "char_emptynpc_n",
+      "name": "Char Emptynpc N",
+      "file": "ded41dbefdb9efd9"
+    },
+    {
+      "id": "char_elviranpc_n",
+      "name": "Char Elviranpc N",
+      "file": "d9add88032bb12ee"
+    },
+    {
+      "id": "char_duoli_n",
+      "name": "Char Duoli N",
+      "file": "f03a872ff3d14839"
+    },
+    {
+      "id": "char_dreya_n",
+      "name": "Char Dreya N",
+      "file": "68d094bc47baefc6"
+    },
+    {
+      "id": "char_echo_n",
+      "name": "Char Echo N",
+      "file": "acfe6f64d302015d"
+    },
+    {
+      "id": "char_eurekadilei_n",
+      "name": "Char Eurekadilei N",
+      "file": "cbc5d1fca1572b3b"
+    },
+    {
+      "id": "char_eagle_n",
+      "name": "Char Eagle N",
+      "file": "7722e8ba30491b58"
+    },
+    {
+      "id": "char_eleven_n",
+      "name": "Char Eleven N",
+      "file": "1a1c88f9a0f69f4b"
+    },
+    {
+      "id": "char_duruo_n",
+      "name": "Char Duruo N",
+      "file": "2f6acbc392ac19de"
+    },
+    {
+      "id": "char_evecuckoo_n",
+      "name": "Char Evecuckoo N",
+      "file": "d9a5ccdd4910a1eb"
+    },
+    {
+      "id": "char_evedoll_n",
+      "name": "Char Evedoll N",
+      "file": "20fd358e22803843"
+    },
+    {
+      "id": "char_facpaonpc_n",
+      "name": "Char Facpaonpc N",
+      "file": "a458534e50cc1b82"
+    },
+    {
+      "id": "char_evebear_n",
+      "name": "Char Evebear N",
+      "file": "535889ffc8677753"
+    },
+    {
+      "id": "char_enfer_n",
+      "name": "Char Enfer N",
+      "file": "f6cb96744b1246ac"
+    },
+    {
+      "id": "char_etti_n",
+      "name": "Char Etti N",
+      "file": "c8d41613e6c4843e"
+    },
+    {
+      "id": "char_ermes_n",
+      "name": "Char Ermes N",
+      "file": "e7fa63a31ddafb0c"
+    },
+    {
+      "id": "char_fupobaozi_n",
+      "name": "Char Fupobaozi N",
+      "file": "0dd341cd655377a8"
+    },
+    {
+      "id": "char_eureka_n",
+      "name": "Char Eureka N",
+      "file": "022b09aca1d892b1"
+    },
+    {
+      "id": "char_fuluola_n",
+      "name": "Char Fuluola N",
+      "file": "7f41cc515f031011"
+    },
+    {
+      "id": "char_eve_n",
+      "name": "Char Eve N",
+      "file": "26d23f6bb9c1cdbd"
+    },
+    {
+      "id": "char_fulunxinka_n",
+      "name": "Char Fulunxinka N",
+      "file": "0bcbd7c24fefd42f"
+    },
+    {
+      "id": "char_fupo_n",
+      "name": "Char Fupo N",
+      "file": "7cf242b57bf81909"
+    },
+    {
+      "id": "char_faluer_n",
+      "name": "Char Faluer N",
+      "file": "553f2205c97a1c3f"
+    },
+    {
+      "id": "char_geji_n",
+      "name": "Char Geji N",
+      "file": "92579e8a5f22600a"
+    },
+    {
+      "id": "char_hekadimengyan_n",
+      "name": "Char Hekadimengyan N",
+      "file": "a37799f3c1dc4202"
+    },
+    {
+      "id": "char_garofano_n",
+      "name": "Char Garofano N",
+      "file": "82b18251ccf78f00"
+    },
+    {
+      "id": "char_graves_n",
+      "name": "Char Graves N",
+      "file": "9424efbd3978149c"
+    },
+    {
+      "id": "char_golem_n",
+      "name": "Char Golem N",
+      "file": "63be0af6c318b2de"
+    },
+    {
+      "id": "char_haili_n",
+      "name": "Char Haili N",
+      "file": "085e5f654bac6c24"
+    },
+    {
+      "id": "char_heerjia_n",
+      "name": "Char Heerjia N",
+      "file": "4314b6c368ba3326"
+    },
+    {
+      "id": "char_hildaradar_n",
+      "name": "Char Hildaradar N",
+      "file": "997e2abc621f04f9"
+    },
+    {
+      "id": "char_hameier_n",
+      "name": "Char Hameier N",
+      "file": "8551a3b10824e3cd"
+    },
+    {
+      "id": "char_hypatiasummons_n",
+      "name": "Char Hypatiasummons N",
+      "file": "ecff7a35da0e1d71"
+    },
+    {
+      "id": "char_hekadi_n",
+      "name": "Char Hekadi N",
+      "file": "4fbcf2a5fcad8758"
+    },
+    {
+      "id": "char_hilda_n",
+      "name": "Char Hilda N",
+      "file": "7807cdeea98363a7"
+    },
+    {
+      "id": "char_hitomi_n",
+      "name": "Char Hitomi N",
+      "file": "a4d53395f4e7bc2d"
+    },
+    {
+      "id": "char_hella_n",
+      "name": "Char Hella N",
+      "file": "2e1c8c56934e3b0a"
+    },
+    {
+      "id": "char_hypatia_n",
+      "name": "Char Hypatia N",
+      "file": "352abbeb11b29c7b"
+    },
+    {
+      "id": "char_heli_n",
+      "name": "Char Heli N",
+      "file": "3313cbf996c2a780"
+    },
+    {
+      "id": "char_jiemaqinpc_n",
+      "name": "Char Jiemaqinpc N",
+      "file": "3bfbd1114d8ee15a"
+    },
+    {
+      "id": "char_irrheia_n",
+      "name": "Char Irrheia N",
+      "file": "0d49d0da48a68efc"
+    },
+    {
+      "id": "char_jelena_n",
+      "name": "Char Jelena N",
+      "file": "4ed912efa0fd4333"
+    },
+    {
+      "id": "char_jane_n",
+      "name": "Char Jane N",
+      "file": "39d4ddb11208b925"
+    },
+    {
+      "id": "char_jiekuilin_n",
+      "name": "Char Jiekuilin N",
+      "file": "16243b769dbd46b0"
+    },
+    {
+      "id": "char_hestia_n",
+      "name": "Char Hestia N",
+      "file": "d1d990237750d429"
+    },
+    {
+      "id": "char_jasmine_n",
+      "name": "Char Jasmine N",
+      "file": "4f4f77f1500e7fa8"
+    },
+    {
+      "id": "char_kavakava_n",
+      "name": "Char Kavakava N",
+      "file": "74b7e8c176e425c7"
+    },
+    {
+      "id": "char_kaier_n",
+      "name": "Char Kaier N",
+      "file": "8786cf03eb6a7d6a"
+    },
+    {
+      "id": "char_jin_n",
+      "name": "Char Jin N",
+      "file": "4edf9195f460d5ef"
+    },
+    {
+      "id": "char_jichuan_n",
+      "name": "Char Jichuan N",
+      "file": "913fee4890d59386"
+    },
+    {
+      "id": "char_kk_n",
+      "name": "Char Kk N",
+      "file": "18499db348c0c7dd"
+    },
+    {
+      "id": "char_kelaimenting_n",
+      "name": "Char Kelaimenting N",
+      "file": "f89585e0efa12204"
+    },
+    {
+      "id": "char_jiushijiu_n",
+      "name": "Char Jiushijiu N",
+      "file": "a9a8dc5e2f108c19"
+    },
+    {
+      "id": "char_langhuan_n",
+      "name": "Char Langhuan N",
+      "file": "4583d37141ce620b"
+    },
+    {
+      "id": "char_kuangdu_n",
+      "name": "Char Kuangdu N",
+      "file": "7f7c09c2b975e7e7"
+    },
+    {
+      "id": "char_jotaro_n",
+      "name": "Char Jotaro N",
+      "file": "8f298fdd545fe328"
+    },
+    {
+      "id": "char_korryn_n",
+      "name": "Char Korryn N",
+      "file": "6db7b075c27eebf9"
+    },
+    {
+      "id": "char_lanli_n",
+      "name": "Char Lanli N",
+      "file": "59e95f8c740f6be1"
+    },
+    {
+      "id": "char_lamia_n",
+      "name": "Char Lamia N",
+      "file": "9fe96a4b5537ab28"
+    },
+    {
+      "id": "char_levy_n",
+      "name": "Char Levy N",
+      "file": "682e38870977dc16"
+    },
+    {
+      "id": "char_luguinpc_n",
+      "name": "Char Luguinpc N",
+      "file": "df4047e04249a6c8"
+    },
+    {
+      "id": "char_lonelypuppetnpc_n",
+      "name": "Char Lonelypuppetnpc N",
+      "file": "afa6e5ee4463ce2f"
+    },
+    {
+      "id": "char_lichen_n",
+      "name": "Char Lichen N",
+      "file": "8b7d9d8781bb5a04"
+    },
+    {
+      "id": "char_linglan_n",
+      "name": "Char Linglan N",
+      "file": "62673d65af03acd1"
+    },
+    {
+      "id": "char_ll_n",
+      "name": "Char Ll N",
+      "file": "6315368795078775"
+    },
+    {
+      "id": "char_margaretsummon_n",
+      "name": "Char Margaretsummon N",
+      "file": "a55611c52219095b"
+    },
+    {
+      "id": "char_luminita_n",
+      "name": "Char Luminita N",
+      "file": "89448b1ae39153dd"
+    },
+    {
+      "id": "char_lysandra_n",
+      "name": "Char Lysandra N",
+      "file": "c8bab4bbf9b0e73f"
+    },
+    {
+      "id": "char_luweiyalei_n",
+      "name": "Char Luweiyalei N",
+      "file": "f921ab452b07c4b0"
+    },
+    {
+      "id": "char_lynn_n",
+      "name": "Char Lynn N",
+      "file": "b6bf25b25253e144"
+    },
+    {
+      "id": "char_mcqueenfenshen_n",
+      "name": "Char Mcqueenfenshen N",
+      "file": "4ca9ceadc0a87615"
+    },
+    {
+      "id": "char_likuian_n",
+      "name": "Char Likuian N",
+      "file": "b85848d242c8f315"
+    },
+    {
+      "id": "char_miwengaotanpc_n",
+      "name": "Char Miwengaotanpc N",
+      "file": "77fe031b15eeb59a"
+    },
+    {
+      "id": "char_mantis_n",
+      "name": "Char Mantis N",
+      "file": "2b36c0f2d2cfe6d8"
+    },
+    {
+      "id": "char_margaret_n",
+      "name": "Char Margaret N",
+      "file": "b5b8dc2a9e18a829"
+    },
+    {
+      "id": "char_matilda_n",
+      "name": "Char Matilda N",
+      "file": "191e402eb31b8da2"
+    },
+    {
+      "id": "char_mira_n",
+      "name": "Char Mira N",
+      "file": "cbe599ef09ad7a2a"
+    },
+    {
+      "id": "char_milly_n",
+      "name": "Char Milly N",
+      "file": "44ed0fb19f37ef7d"
+    },
+    {
+      "id": "char_miwenhuangdinpc_n",
+      "name": "Char Miwenhuangdinpc N",
+      "file": "1cc2010c863907a6"
+    },
+    {
+      "id": "char_miwenliliangnpc_n",
+      "name": "Char Miwenliliangnpc N",
+      "file": "69caa4999853c814"
+    },
+    {
+      "id": "char_miwenyuzhenpc_n",
+      "name": "Char Miwenyuzhenpc N",
+      "file": "7a848d5bd8057a17"
+    },
+    {
+      "id": "char_mcqueen_n",
+      "name": "Char Mcqueen N",
+      "file": "544eec6e897b1a92"
+    },
+    {
+      "id": "char_monsterbattleredflagnpc_n",
+      "name": "Char Monsterbattleredflagnpc N",
+      "file": "ca947d3b7da82ccc"
+    },
+    {
+      "id": "char_miwenzhengyinpc_n",
+      "name": "Char Miwenzhengyinpc N",
+      "file": "3954b0b663236970"
+    },
+    {
+      "id": "char_mess_n",
+      "name": "Char Mess N",
+      "file": "5aef44a4f6b292af"
+    },
+    {
+      "id": "char_movementdeathnpc_n",
+      "name": "Char Movementdeathnpc N",
+      "file": "e6604cb9351e843d"
+    },
+    {
+      "id": "char_monalisa_n",
+      "name": "Char Monalisa N",
+      "file": "596608709109133e"
+    },
+    {
+      "id": "char_movementrotnpc_n",
+      "name": "Char Movementrotnpc N",
+      "file": "e8ef82798d32ec1f"
+    },
+    {
+      "id": "char_mojila_n",
+      "name": "Char Mojila N",
+      "file": "a270d003c6d3fa0a"
+    },
+    {
+      "id": "char_movementconductornpc_n",
+      "name": "Char Movementconductornpc N",
+      "file": "3dee4a4ebbfe73b4"
+    },
+    {
+      "id": "char_movementshieldnpc_n",
+      "name": "Char Movementshieldnpc N",
+      "file": "1d371821b95bd921"
+    },
+    {
+      "id": "char_nu_n",
+      "name": "Char Nu N",
+      "file": "e784dea84777160b"
+    },
+    {
+      "id": "char_moore_n",
+      "name": "Char Moore N",
+      "file": "1c1cc9ae90fac1bf"
+    },
+    {
+      "id": "char_mofei_n",
+      "name": "Char Mofei N",
+      "file": "0709aae4a6e11d56"
+    },
+    {
+      "id": "char_nirvanahunternpc_n",
+      "name": "Char Nirvanahunternpc N",
+      "file": "d39a1b4f27f0202c"
+    },
+    {
+      "id": "char_nanjuzhang_n",
+      "name": "Char Nanjuzhang N",
+      "file": "e7197bbf59f8afc7"
+    },
+    {
+      "id": "char_mspeacockpetnpc_n",
+      "name": "Char Mspeacockpetnpc N",
+      "file": "6cae543bbeff863b"
+    },
+    {
+      "id": "char_owoshizi_n",
+      "name": "Char Owoshizi N",
+      "file": "bbcd6951160e65ed"
+    },
+    {
+      "id": "char_nino_n",
+      "name": "Char Nino N",
+      "file": "4c72eba701982ea8"
+    },
+    {
+      "id": "char_nvjuzhang_n",
+      "name": "Char Nvjuzhang N",
+      "file": "ddbb7636386eaa50"
+    },
+    {
+      "id": "char_olivier_n",
+      "name": "Char Olivier N",
+      "file": "4c12ebe9b46a3dc5"
+    },
+    {
+      "id": "char_nuoma_n",
+      "name": "Char Nuoma N",
+      "file": "ef5e0c55eaac3719"
+    },
+    {
+      "id": "char_peggixiaochou_n",
+      "name": "Char Peggixiaochou N",
+      "file": "dfc4dbc9e9df3a77"
+    },
+    {
+      "id": "char_nuokesi_n",
+      "name": "Char Nuokesi N",
+      "file": "800a96dc2d58d93f"
+    },
+    {
+      "id": "char_pajiaxi_n",
+      "name": "Char Pajiaxi N",
+      "file": "801fa3de0ee07167"
+    },
+    {
+      "id": "char_oak_n",
+      "name": "Char Oak N",
+      "file": "fdf3c89bcec610ba"
+    },
+    {
+      "id": "char_pine_n",
+      "name": "Char Pine N",
+      "file": "2a4181e5c95bb423"
+    },
+    {
+      "id": "char_peggi_n",
+      "name": "Char Peggi N",
+      "file": "99d41774c2511540"
+    },
+    {
+      "id": "char_prosfight_n",
+      "name": "Char Prosfight N",
+      "file": "a388786f338dfb97"
+    },
+    {
+      "id": "char_parfait_n",
+      "name": "Char Parfait N",
+      "file": "1ba68736dc032d56"
+    },
+    {
+      "id": "char_prfcapnpc_n",
+      "name": "Char Prfcapnpc N",
+      "file": "91d241f9dd634541"
+    },
+    {
+      "id": "char_pikesaier_n",
+      "name": "Char Pikesaier N",
+      "file": "a9b278d1464e9bf4"
+    },
+    {
+      "id": "char_owo_n",
+      "name": "Char Owo N",
+      "file": "ab57e31f06bfb628"
+    },
+    {
+      "id": "char_poffy_n",
+      "name": "Char Poffy N",
+      "file": "3d9b971d138c74dc"
+    },
+    {
+      "id": "char_qiao_n",
+      "name": "Char Qiao N",
+      "file": "22f41190c49a3f7a"
+    },
+    {
+      "id": "char_pearl_n",
+      "name": "Char Pearl N",
+      "file": "ff8d3012eedec10e"
+    },
+    {
+      "id": "char_ruminawick_n",
+      "name": "Char Ruminawick N",
+      "file": "5d251c45446af05d"
+    },
+    {
+      "id": "char_rise_n",
+      "name": "Char Rise N",
+      "file": "d1d9c5d6efe7b968"
+    },
+    {
+      "id": "char_rui_n",
+      "name": "Char Rui N",
+      "file": "78890622bc692b5f"
+    },
+    {
+      "id": "char_raven_n",
+      "name": "Char Raven N",
+      "file": "ed52a1c45ccc4abd"
+    },
+    {
+      "id": "char_renou_n",
+      "name": "Char Renou N",
+      "file": "343da76a5cefa680"
+    },
+    {
+      "id": "char_rahu_n",
+      "name": "Char Rahu N",
+      "file": "e034df1b5f589132"
+    },
+    {
+      "id": "char_shroomalvmogu_n",
+      "name": "Char Shroomalvmogu N",
+      "file": "fe597ea1ccc33517"
+    },
+    {
+      "id": "char_shawn_n",
+      "name": "Char Shawn N",
+      "file": "801549ba4ed9dd2b"
+    },
+    {
+      "id": "char_rumina_n",
+      "name": "Char Rumina N",
+      "file": "e14c37c8e4ed22b8"
+    },
+    {
+      "id": "char_pylgia_n",
+      "name": "Char Pylgia N",
+      "file": "448bb0ad73673801"
+    },
+    {
+      "id": "char_shroomazongmogu_n",
+      "name": "Char Shroomazongmogu N",
+      "file": "bccc614c82537706"
+    },
+    {
+      "id": "char_shrooma_n",
+      "name": "Char Shrooma N",
+      "file": "12c940a8991464b9"
+    },
+    {
+      "id": "char_rust_n",
+      "name": "Char Rust N",
+      "file": "89eda4536d841111"
+    },
+    {
+      "id": "char_shalom_n",
+      "name": "Char Shalom N",
+      "file": "080b9dfed817e1c3"
+    },
+    {
+      "id": "char_tucogunnpc_n",
+      "name": "Char Tucogunnpc N",
+      "file": "f6564a5677889027"
+    },
+    {
+      "id": "char_siglinde_n",
+      "name": "Char Siglinde N",
+      "file": "73ef0c09a88452af"
+    },
+    {
+      "id": "char_thani_n",
+      "name": "Char Thani N",
+      "file": "fa07c73f4fa76ab7"
+    },
+    {
+      "id": "char_tetra_n",
+      "name": "Char Tetra N",
+      "file": "a6e501a79ec23c81"
+    },
+    {
+      "id": "char_tucomayornpc_n",
+      "name": "Char Tucomayornpc N",
+      "file": "42000b8c4349de6b"
+    },
+    {
+      "id": "char_udsonatornpc_n",
+      "name": "Char Udsonatornpc N",
+      "file": "1ad7a49079e6708e"
+    },
+    {
+      "id": "char_thalia_n",
+      "name": "Char Thalia N",
+      "file": "47ce31189cddc9d3"
+    },
+    {
+      "id": "char_vintagerecordplayer_n",
+      "name": "Char Vintagerecordplayer N",
+      "file": "d94fb05ae2269eb9"
+    },
+    {
+      "id": "char_tuoqier_n",
+      "name": "Char Tuoqier N",
+      "file": "243117200b9ae270"
+    },
+    {
+      "id": "char_thistle_n",
+      "name": "Char Thistle N",
+      "file": "5e8fcf029fb43900"
+    },
+    {
+      "id": "char_snake_n",
+      "name": "Char Snake N",
+      "file": "188c38b2b6a86590"
+    },
+    {
+      "id": "char_warbladeaidecannonnpc_n",
+      "name": "Char Warbladeaidecannonnpc N",
+      "file": "9bf5051c3503d142"
+    },
+    {
+      "id": "char_warbladeroguenpc_n",
+      "name": "Char Warbladeroguenpc N",
+      "file": "af40925017a31b5d"
+    },
+    {
+      "id": "char_uni_n",
+      "name": "Char Uni N",
+      "file": "db797ce026c2c28b"
+    },
+    {
+      "id": "char_xiangzi_n",
+      "name": "Char Xiangzi N",
+      "file": "31d4953654fa42e4"
+    },
+    {
+      "id": "char_warbladefighternpc_n",
+      "name": "Char Warbladefighternpc N",
+      "file": "fd4895abde3e351d"
+    },
+    {
+      "id": "char_shin_n",
+      "name": "Char Shin N",
+      "file": "4154e4ce60c6c83d"
+    },
+    {
+      "id": "char_xiayinqiang_n",
+      "name": "Char Xiayinqiang N",
+      "file": "4d61b25de6649c86"
+    },
+    {
+      "id": "char_vautour_n",
+      "name": "Char Vautour N",
+      "file": "057ad91aa6af0c96"
+    },
+    {
+      "id": "char_wuhuanzi_n",
+      "name": "Char Wuhuanzi N",
+      "file": "1dbfcb8463f55468"
+    },
+    {
+      "id": "char_xiaofengsummons_n",
+      "name": "Char Xiaofengsummons N",
+      "file": "c280038ab025f6de"
+    },
+    {
+      "id": "char_wendy_n",
+      "name": "Char Wendy N",
+      "file": "8f8fd5ad23d785c3"
+    },
+    {
+      "id": "char_xiayin_n",
+      "name": "Char Xiayin N",
+      "file": "c4b88386514783b3"
+    },
+    {
+      "id": "char_yihunpc_n",
+      "name": "Char Yihunpc N",
+      "file": "4366fd2e7fccf170"
+    },
+    {
+      "id": "char_xinxiya_n",
+      "name": "Char Xinxiya N",
+      "file": "7c59aadb509dbe15"
+    },
+    {
+      "id": "char_yeyingzs_n",
+      "name": "Char Yeyingzs N",
+      "file": "87b22ea96fcfabab"
+    },
+    {
+      "id": "char_vanilla_n",
+      "name": "Char Vanilla N",
+      "file": "80b40779b07b6ea3"
+    },
+    {
+      "id": "char_yanyan_n",
+      "name": "Char Yanyan N",
+      "file": "f07ae0d0b9171cea"
+    },
+    {
+      "id": "char_yiwei_n",
+      "name": "Char Yiwei N",
+      "file": "528b983205e23731"
+    },
+    {
+      "id": "char_zephyr_n",
+      "name": "Char Zephyr N",
+      "file": "7e766e74790a93f4"
+    },
+    {
+      "id": "char_xiaofeng_n",
+      "name": "Char Xiaofeng N",
+      "file": "18fe865b41362c57"
+    },
+    {
+      "id": "char_zibaoxienpc_n",
+      "name": "Char Zibaoxienpc N",
+      "file": "9e4e1133ae339cf7"
+    },
+    {
+      "id": "char_xining_n",
+      "name": "Char Xining N",
+      "file": "39adcc35d6f5e6d0"
+    },
+    {
+      "id": "char_yugu_n",
+      "name": "Char Yugu N",
+      "file": "1f2f0c2099de1c44"
+    },
+    {
+      "id": "char_yingying_n",
+      "name": "Char Yingying N",
+      "file": "6f9d9d0ad38612b3"
+    },
+    {
+      "id": "char_zuoyi_n",
+      "name": "Char Zuoyi N",
+      "file": "1ce8d2152d42168d"
+    },
+    {
+      "id": "char_zoya_n",
+      "name": "Char Zoya N",
+      "file": "cea66f8a22a4f6e9"
+    },
+    {
+      "id": "char_zero_n",
+      "name": "Char Zero N",
+      "file": "f05cc7c209ef07da"
+    },
+    {
+      "id": "char_yao_n",
+      "name": "Char Yao N",
+      "file": "1503367ecb632ce5"
+    }
+  ]
+}
