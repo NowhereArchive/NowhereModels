@@ -1,6 +1,16 @@
 {
   "characters": [
     {
+      "id": "char_letta_n",
+      "name": "Char Letta N",
+      "file": "613edb6b6dfcf1d9"
+    },
+    {
+      "id": "char_ayiguo_n",
+      "name": "Char Ayiguo N",
+      "file": "f25840ca2ab75406"
+    },
+    {
       "id": "char_deren_n",
       "name": "Char Deren N",
       "file": "c5f6f6e302a876bd"
